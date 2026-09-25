@@ -1,0 +1,6 @@
+<?php
+
+$nombre = "Juan";
+print ( "Hola $nombre!");
+
+?>
